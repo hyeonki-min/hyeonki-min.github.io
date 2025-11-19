@@ -7,9 +7,9 @@ tags: [Java, RateLimiter, TokenBucket, SlidingWindow]
 
 일반적으로 API 호출에는 초당 제한이 걸려있습니다. 트래픽의 처리율을 제어하기 위함인데, Dos(Denial of Service) 공격에 의한 자원 고갈을 방지하고, 추가 요청에 대한 처리를 제한하여 비용을 절감하고, 봇이나 사용자의 잘못된 이용으로 유발된 트래픽을 걸러내어 서버 과부하를 막을 수 있습니다.
 
-예시 빗썸 api 제한 안내
+예시) 빗썸 api 제한 안내
 
-![빗썸 api 제한](/assets/img/rate-limiters/bithumb.PNG)
+![빗썸 api 제한](/assets/img/rate-limiter/bithumb.PNG)
 
 
 ## 처리율 제한 장치(Rate Limiter)
