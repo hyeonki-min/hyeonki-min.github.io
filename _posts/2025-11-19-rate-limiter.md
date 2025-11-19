@@ -1,5 +1,5 @@
 ---
-title: "Rate Limiter 정리"
+title: "API 1초에 10번으로 제한하기(Rate Limiter)"
 date: 2025-11-19 18:00:00 +0900
 categories: [Backend, RateLimit]
 tags: [Java, RateLimiter, TokenBucket, SlidingWindow]
@@ -474,7 +474,7 @@ synchronized boolean allow(long nowMillis, int limit) {
 
 ## 예시코드
 
-모든 코드는 [깃헙](https://github.com/hyeonki-min/spring-labs)에 있습니다.
+모든 코드는 [깃헙](https://github.com/hyeonki-min/spring-labs/tree/master/rate-limiter)에 있습니다.
 
 ### 참고문헌
 
