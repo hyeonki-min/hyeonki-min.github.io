@@ -252,4 +252,4 @@ JWT는 유용한 인증 도구이지만, 서명키가 유출되는 순간 인증
 
 # 예시코드
 
-모든 코드는 [깃헙](https://github.com/hyeonki-min/spring-labs/tree/master/coupang-jwt)에 있습니다.
+모든 코드는 [깃헙](https://github.com/hyeonki-min/spring-labs/tree/master/leaked-jwt-secret)에 있습니다.
