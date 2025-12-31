@@ -17,7 +17,7 @@ tags: [Retrospective, Career, Work-Life-Balance, Learning, Architecture, Data-En
 
 이후 아이가 어린이집에 입소하면서 복직을 준비했고, 약 6개월 만에 다시 업무에 복귀했습니다. 다만 개인적인 사정으로 다시 육아휴직을 선택하게 되었고, 현재는 월 160만 원 수준의 지원금을 바탕으로 가계의 균형을 유지하며 생활을 이어가고 있습니다.
 
-이 과정에서 자연스럽게 **비용과 지속 가능성에 대한 기준**도 다시 세우게 되었습니다. 통신비를 최소 요금제로 조정하고, 개인 프로젝트 운영 비용을 줄이기 위해 인프라를 재구성했습니다. 개인 홈페이지는 Cloudflare로 이전했고, 데이터 시각화 서비스인 [*Economins*](http://economins.com/)는 Vercel 기반으로 재배포해 고정 비용을 낮췄습니다. 모든 것을 줄이기보다는, 학습과 사고를 유지하는 데 필요하다고 판단한 최소한의 도구(ChatGPT)는 그대로 유지했습니다.
+이 과정에서 자연스럽게 **비용과 지속 가능성에 대한 기준**도 다시 세우게 되었습니다. 통신비를 최소 요금제로 조정하고, 개인 프로젝트 운영 비용을 줄이기 위해 인프라를 재구성했습니다. 개인 홈페이지는 Cloudflare로 이전했고, 데이터 시각화 서비스인 [*Economins*](https://economins.com/)는 Vercel 기반으로 재배포해 고정 비용을 낮췄습니다. 모든 것을 줄이기보다는, 학습과 사고를 유지하는 데 필요하다고 판단한 최소한의 도구(ChatGPT)는 그대로 유지했습니다.
 
 돌아보면 이 선택들은 모두 ‘완벽한 결정’이라기보다는, **그 시점에서 가장 지속 가능하다고 판단한 선택들**이었습니다. 2025년은 빠르게 달려 나간 해라기보다는, 기준을 다시 세우고 방향을 정렬한 해였고, 그 과정에서 저는 기술뿐 아니라 판단과 책임의 무게를 다시 배우고 있다고 느끼고 있습니다.
 
@@ -73,8 +73,8 @@ LLM은 이러한 문제들에 대해 빠르게 방향성을 제시할 수 있지
 ## 가장 재미있었던 프로젝트는 무엇이었나
 
 - [economins/monetary-report](https://economins.com/monetary-policy/2025-11) : 한국은행 통화정책방향 결정회의 요약
-- [hyeonki-min.com](http://hyeonki-min.com) : 개인 홈페이지
-- [hyeonki-min.github.io](http://hyeonki-min.github.io) : 개인 기술 블로그
+- [hyeonki-min.com](https://hyeonki-min.com) : 개인 홈페이지
+- [hyeonki-min.github.io](https://hyeonki-min.github.io) : 개인 기술 블로그
 - [economins-sam](https://github.com/hyeonki-min/economins-sam) : AWS Serverless ETL 프로젝트
 - [spring-labs](https://github.com/hyeonki-min/spring-labs) : 스프링 기반 기술 구현 프로젝트
 - [news-bot](https://github.com/hyeonki-min/news-bot) : naver news api 기반 슬랙 봇
