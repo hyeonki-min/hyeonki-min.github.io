@@ -2,7 +2,7 @@
 
  **Jekyll**과 **Chirpy**로 구성한 개인 기술 블로그입니다. **GitHub Pages**로 호스팅합니다.
 
-**Blog URL:** https://hyeonki-min.github.io  
+**Blog URL:** https://tech.hyeonki-min.com  
 **Theme:** https://github.com/cotes2020/jekyll-theme-chirpy
 
 ---

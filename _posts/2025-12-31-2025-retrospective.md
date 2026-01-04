@@ -74,7 +74,7 @@ LLM은 이러한 문제들에 대해 빠르게 방향성을 제시할 수 있지
 
 - [economins/monetary-report](https://economins.com/monetary-policy/2025-11) : 한국은행 통화정책방향 결정회의 요약
 - [hyeonki-min.com](https://hyeonki-min.com) : 개인 홈페이지
-- [hyeonki-min.github.io](https://hyeonki-min.github.io) : 개인 기술 블로그
+- [tech.hyeonki-min.com](https://tech.hyeonki-min.com) : 개인 기술 블로그
 - [economins-sam](https://github.com/hyeonki-min/economins-sam) : AWS Serverless ETL 프로젝트
 - [spring-labs](https://github.com/hyeonki-min/spring-labs) : 스프링 기반 기술 구현 프로젝트
 - [news-bot](https://github.com/hyeonki-min/news-bot) : naver news api 기반 슬랙 봇
@@ -87,7 +87,7 @@ LLM은 이러한 문제들에 대해 빠르게 방향성을 제시할 수 있지
 
 이 프로젝트는 단순히 요약 기능을 구현하는 데서 그치지 않고, **LLM을 실제 서비스 환경에서 어떤 조건과 제약 아래 활용하는 것이 합리적인지**를 끝까지 고민해볼 수 있었던 경험이었습니다.
 
-개인 홈페이지(`hyeonki-min.com`)와 기술 블로그(`hyeonki-min.github.io`)는 기술 프로젝트라기보다, 스스로를 정리하는 도구에 가까웠습니다. 커리어, 프로젝트, 생각을 흩어진 형태가 아닌 하나의 흐름으로 정리하고 싶었고, 직접 설계·구현하며 인프라 비용, 배포 구조, 유지 관리까지 함께 고민했습니다. 특히 육아휴직 기간 동안 비용을 최소화해야 하는 상황에서, Cloudflare와 GitHub Pages 기반으로 인프라를 단순화하며 **기술 선택이 곧 생활의 지속 가능성과 연결될 수 있다는 점**을 체감했습니다.
+개인 홈페이지(`hyeonki-min.com`)와 기술 블로그(`tech.hyeonki-min.com`)는 기술 프로젝트라기보다, 스스로를 정리하는 도구에 가까웠습니다. 커리어, 프로젝트, 생각을 흩어진 형태가 아닌 하나의 흐름으로 정리하고 싶었고, 직접 설계·구현하며 인프라 비용, 배포 구조, 유지 관리까지 함께 고민했습니다. 특히 육아휴직 기간 동안 비용을 최소화해야 하는 상황에서, Cloudflare와 GitHub Pages 기반으로 인프라를 단순화하며 **기술 선택이 곧 생활의 지속 가능성과 연결될 수 있다는 점**을 체감했습니다.
 
 **`economins-sam`** 프로젝트는 AWS Serverless 기반 ETL 구조를 실험한 프로젝트입니다. Lambda, S3, Event Bridge를 활용해 데이터 수집·변환·적재 흐름을 구성하며, 서버를 소유하지 않는 구조에서 **운영 책임이 어떻게 이동하는지**를 직접 경험할 수 있었습니다. 단순히 “서버리스”라는 키워드가 아니라, 언제 서버리스가 적합하고 언제 한계가 드러나는지를 체감한 점이 의미 있었습니다.
 
